@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MAD_ExpenseManager</string>
+    <string name="title_activity_add_expense">AddExpense</string>
+</resources>
